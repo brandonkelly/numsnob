@@ -1,10 +1,11 @@
 <?php
 
 $plugin_info = array(
-	'pi_name'			=> 'Number Snob',
-	'pi_version'		=> '1.0',
-	'pi_author'			=> 'Brandon Kelly',
-	'pi_author_url'		=> 'http://brandon-kelly.com/'
+	'pi_name'        => 'Number Snob',
+	'pi_version'     => '1.0',
+	'pi_author'      => 'Brandon Kelly',
+	'pi_author_url'  => 'http://brandon-kelly.com/',
+	'pi_description' => 'Converts numbers 1-9 into words'
 );
 
 class Numsnob {
