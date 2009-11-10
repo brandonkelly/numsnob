@@ -1,0 +1,12 @@
+h1. Number Snob
+
+Converts numbers 1-9 into words (“one”, “two”, etc.)
+
+h3. Usage
+
+@{exp:numsnob num="5"}@ → five
+@{exp:numsnob num="25"}@ → 25
+
+h4. Optional parameter:
+
+@ucfirst="yes"@ — Capitalizes the first letter of the returned word.
